@@ -1,15 +1,17 @@
-# Mood Tracker
+# Mood Tracker Application
+This is a mood tracker that allows users input a rating of their mood on a scale of 1-10, and a note about their current mood. <br>
+Users can create, read, update, and delete their moods. <br>
+They will also be able to see a list of all of their moods and sort by date or rating.<br><br>
 
-## Progress
-✅ done and tested
-❌ broken, incomplete or haven't started yet
+The application is built with a React frontend, an express backend, use a MySQL database for data persistance, and deploy the entire app to Railway.<br>
+
 
 ### Front end 
     ✅ Mood component - a component that displays a single mood
     ✅ MoodForm component - a component that allows users to create a new mood or edit an existing mood
     ✅ App - main component
-    ✅❌ Order the list of moods by date (works, but cannot toggle between sorts)
-    ✅❌ Order the list of moods by rating (works, but cannot toggle between sorts)
+    ✅ Order the list of moods by date 
+    ✅ Order the list of moods by rating
   
     
 ### Back end 
@@ -28,9 +30,6 @@
 ### Deployment
     ✅ Deploy your app to Railway
 
-### Testing
-    ❌ Write tests for your backend
-    ❌ Write tests for your frontend
 
 
 ## Overview
@@ -56,7 +55,7 @@ Create a new mood
 Edit an existing mood
 ✅ Delete a mood
 ✅ View a list of all moods
-❌ Order the list of moods by date or rating
+✅ Order the list of moods by date or rating
 And all of these features should work without a backend just by using useState. If you refresh the browser, all of the data will disappear, but the functionality should still work.
 
 
