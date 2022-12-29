@@ -43,7 +43,6 @@ In this assignment, you will create a mood tracker that allows users input a rat
 
 You will need to build a React frontend, an express backend, use a MySQL database for data persistance, and deploy the entire app to Railway. All of these topics will have been covered by the time this assignment is due.
 
-Example App: https://mood-1-production.up.railway.app/
 
 Frontend 35%
 At a minimum, the frontend should have the following components:
