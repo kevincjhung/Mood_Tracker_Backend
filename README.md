@@ -3,7 +3,11 @@ This is a mood tracker that allows users input a rating of their mood on a scale
 Users can create, read, update, and delete their moods. <br>
 They will also be able to see a list of all of their moods and sort by date or rating.<br><br>
 
-The application is built with a React frontend, an express backend, use a MySQL database for data persistance, and deploy the entire app to Railway.<br>
+### The application is built with:<br> 
+* React frontend
+* Express backend
+* MySQL database for data persistance
+* Deployed on Railway
 
 
 ### Front end 
